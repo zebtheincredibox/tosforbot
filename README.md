@@ -18,9 +18,9 @@ Welcome to **LEVELINGSTAR**, a Discord bot that tracks user activity, awards XP,
 
 LEVELINGSTAR may collect and store:
 
-- User IDs
-- Server IDs
-- Message/XP stats
+- User IDs  
+- Server IDs  
+- Message/XP stats  
 - Level progression
 
 > 💡 We **do NOT** store personal messages, emails, or sensitive information.
@@ -48,10 +48,10 @@ LEVELINGSTAR may collect and store:
 
 ---
 
-## 📩 6. Contact
+## 💬 6. Suggestions
 
-For questions or support, reach out on Discord:  
-**[Your Discord Tag or Support Server Link Here]**
+If you have **feedback**, **suggestions**, or **ideas** to improve LEVELINGSTAR, reach out through Discord:  
+**https://discord.gg/PsYRZ5GWn8**
 
 ---
 
